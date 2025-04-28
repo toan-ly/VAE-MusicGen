@@ -1,7 +1,7 @@
 # 🎶 VAE-MusicGen
 
 ## Overview
-This project utilizes Conditional Variational Autoencoders (VAEs) to generate instrumental music. The streamlit application allows users to upload an audio file or choose a sample audio, select the predefined genres, and the system will create unique compositions
+This project utilizes Conditional Variational Autoencoder (CVAE) to generate instrumental music. The streamlit application allows users to upload an audio file or choose a sample audio, select the predefined genres, and the system will create unique compositions
 
 ## Getting Started
 
